@@ -1,10 +1,14 @@
 #include <iostream>
-#include <math.h>
-#include <random>
 #include <vector>
-#include <algorithm>
+#include <cstdlib> 
+#include <ctime> 
+
+struct Item {
+    int value;
+    int weight;
+};
 
 int main() {
-    
+
 }
 
